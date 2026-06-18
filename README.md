@@ -1,5 +1,3 @@
-[opencall-BALCONICA11.html](https://github.com/user-attachments/files/29114607/opencall-BALCONICA11.html)
-<!DOCTYPE html>
 <html lang="it">
 <head>
   <meta charset="UTF-8">
