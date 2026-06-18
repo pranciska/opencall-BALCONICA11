@@ -1,4 +1,4 @@
-[opencall-BALCONICA11.html](https://github.com/user-attachments/files/29114989/opencall-BALCONICA11.html)
+[opencall-BALCONICA11.html](https://github.com/user-attachments/files/29115108/opencall-BALCONICA11.html)
 <!DOCTYPE html>
 <html lang="it">
 <head>
@@ -311,11 +311,6 @@
       opacity: 0.88;
     }
 
-    .btn-placeholder {
-      opacity: 0.5;
-      cursor: default;
-      pointer-events: none;
-    }
 
     /* ─── FOOTER ─── */
     .linktree-section {
@@ -523,7 +518,7 @@
   <div class="cta-section">
     <h3>Pronto a candidarti?</h3>
     <p>Scadenza: 5 luglio 2026 — assicurati di avere tutto il materiale pronto prima di iniziare.</p>
-    <a href="#" class="btn-candidati btn-placeholder">Compila il modulo →</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSckr1Rx7KkmxzYYwuuLpzNFRO6BGdDd5TmPeijpF4nPKLBxRQ/viewform?usp=header" class="btn-candidati" target="_blank">Compila il modulo →</a>
   </div>
 
   <!-- Linktree QR -->
